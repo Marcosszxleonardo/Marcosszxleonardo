@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Marcos Leonardo
 
 💻 Desenvolvedor Full Stack em formação apaixonado por tecnologia, programação e inovação.  
-☕ **Foco Principal:** Java, Spring Boot e desenvolvimento de sistemas modernos.  
+☕ **Foco Principal:** Java, Spring Boot e desenvolvimento de telas modernas.  
 🖥️ Entusiasta de hardware, infraestrutura e tecnologia em geral.  
 🎓 Estudante de Informática no CEAP.  
 🚀 Buscando evoluir como desenvolvedor Full Stack com ênfase em soluções robustas de Back-end.
