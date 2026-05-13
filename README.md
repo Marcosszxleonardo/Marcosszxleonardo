@@ -43,14 +43,6 @@ Plataforma de alertas urbanos em tempo real.
 Sistema inteligente de rotas para caminhões.
 
 ---
-# 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Marcosszxleonardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Marcosszxleonardo&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
----
-
 # 🌎 Contato
 
 <div align="left">
